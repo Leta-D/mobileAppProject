@@ -59,7 +59,7 @@ for More [Download the Documentation](https://github.com/Leta-D/mobileAppProject
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/fitlife.git
+git clone https://github.com/Leta-D/mobileAppProject
 cd fitlife
 flutter pub get
 flutter run
