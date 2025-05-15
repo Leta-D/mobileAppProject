@@ -1,8 +1,8 @@
-# 💪 FitLife - Your Ultimate Fitness Companion
+# 💪 FitLife 
 
 **FitLife** is a powerful cross-platform fitness app built with Flutter. It offers over 2000 exercises with detailed steps and GIFs, customizable workout plans, offline functionality, timers, and personalized recommendations based on your body stats. Whether you're at the gym or working out at home, FitLife helps you stay motivated, organized, and fit.
 
-for More [Read the Documentation](./docs/README.md)  
+for More [Download the Documentation](https://github.com/Leta-D/mobileAppProject/blob/main/AppDoc/MobileAppProjdoc.docx)  
 
 ---
 
