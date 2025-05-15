@@ -2,6 +2,8 @@
 
 **FitLife** is a powerful cross-platform fitness app built with Flutter. It offers over 2000 exercises with detailed steps and GIFs, customizable workout plans, offline functionality, timers, and personalized recommendations based on your body stats. Whether you're at the gym or working out at home, FitLife helps you stay motivated, organized, and fit.
 
+for More [Read the Documentation](./docs/README.md)  
+
 ---
 
 ## 🚀 Features
@@ -11,8 +13,6 @@
 - 📁 **Favorites** – Save your go-to exercises for quick access.
 - 📊 **Personalized Plans** – Get recommendations based on height, weight, age, and gender.
 - 📶 **Offline Workouts** – Stay fit without needing an internet connection.
-- ⏱️ **Built-in Timers** – Time your sets and rest intervals during workouts.
-- 🔔 **Custom Notifications** – Get reminders for your upcoming workouts.
 - ✅ **Responsive UI** – Smooth and adaptive design across Android and iOS.
 - 💚 **Beautiful Theme** – Sleek green & black color scheme with rounded UI components.
 
@@ -48,6 +48,13 @@
 - **Error handling** with GIFs and fallback messages
 
 ---
+## Group members  
+1. Leta Dejene ----------- Ugr/30823/15  
+2. Segni Tsega ----------- Ugr/31204/15  
+3. Betselot Ertumo ------- Ugr/30297/15  
+4. Remedan Jemal --------- Ugr/31138/15  
+5. Bayisa Balcha --------- Ugr/30232/15  
+6. Kenenisa Gemechu ------ Ugr/30774/15  
 
 ## 📦 Installation
 
