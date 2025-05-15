@@ -25,7 +25,6 @@ for More [Download the Documentation](https://github.com/Leta-D/mobileAppProject
 - **ExerciseDB API** for exercise data
 - **Dio** for API handling
 - **SharedPreferences & Hive** for local storage
-- **Local Notifications**
 - **Custom Icons & Figma** for UI/UX design
 
 ---
@@ -39,15 +38,6 @@ for More [Download the Documentation](https://github.com/Leta-D/mobileAppProject
 - **User Onboarding** – Collects data like height, weight, age, and gender for tailored plans.
 
 ---
-
-## 🏗️ Architecture
-
-- **MVC (Model-View-Controller)** inspired structure
-- **State managed with Provider**
-- **FutureBuilder** for async data rendering
-- **Error handling** with GIFs and fallback messages
-
----
 ## Group members  
 1. Leta Dejene ----------- Ugr/30823/15  
 2. Segni Tsega ----------- Ugr/31204/15  
@@ -59,7 +49,7 @@ for More [Download the Documentation](https://github.com/Leta-D/mobileAppProject
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Leta-D/mobileAppProject
-cd fitlife
+git clone https://github.com/Leta-D/mobileAppProject.git
+cd mobileAppProject
 flutter pub get
 flutter run
