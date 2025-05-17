@@ -3,9 +3,7 @@ import 'package:fitlife2/backend_control/app_state_control.dart';
 import 'package:fitlife2/network_control/exercise_object.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';
-// import '';
 
-// curl --request GET \
 // --url https://exercisedb.p.rapidapi.com/ \  (*base)
 // --header 'x-rapidapi-host: exercisedb.p.rapidapi.com' \
 // --header 'x-rapidapi-key: f74f944cbemsh8f86e257aa6c926p1b4170jsn9608b4a890d6'
