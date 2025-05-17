@@ -1,3 +1,4 @@
+// this is to create a blueprint for the object that hold the api response
 class ExerciseObject {
   String bodyPart, equipment, name, target;
   String id;
