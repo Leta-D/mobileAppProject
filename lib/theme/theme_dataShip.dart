@@ -8,7 +8,7 @@ Color mainWhiteGenerator(double opacity) =>
     Color.fromRGBO(255, 255, 255, opacity);
 Color mainBlackGenerator(double opacity) => Color.fromRGBO(0, 0, 0, opacity);
 Color secondBlackGenerator(double opacity) =>
-    Color.fromRGBO(25, 25, 25, opacity);
+    Color.fromRGBO(25, 2, 25, opacity);
 Color mainGreyGenerator(double opacity) => Color.fromRGBO(91, 91, 91, opacity);
 
 int data = 3;
