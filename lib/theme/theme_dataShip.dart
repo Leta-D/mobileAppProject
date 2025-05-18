@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 Color mainGreenGenerator(double opacity) =>
-    Color.fromRGBO(139, 227, 7, opacity);
+    Color.fromRGBO(139, 22, 7, opacity);
 Color secondGreenGenerator(double opacity) =>
     Color.fromRGBO(150, 207, 123, opacity);
 Color mainWhiteGenerator(double opacity) =>
