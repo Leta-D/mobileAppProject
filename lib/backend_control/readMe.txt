@@ -1,3 +1,3 @@
-this directory is for the app backend
+this directory is for the app backend control
 
-path = MobileAppProject/lib/backend_control
+path = MobileAppProject/lib/backend
