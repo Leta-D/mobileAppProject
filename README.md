@@ -38,13 +38,13 @@ for More [Download the Documentation](https://github.com/Leta-D/mobileAppProject
 - **User Onboarding** – Collects data like height, weight, age, and gender for tailored plans.
 
 ---
-## Group members  
-1. Leta Dejene ----------- Ugr/30823/15  
-2. Segni Tsega ----------- Ugr/31204/15  
-3. Betselot Ertumo ------- Ugr/30297/15  
-4. Remedan Jemal --------- Ugr/31138/15  
-5. Bayisa Balcha --------- Ugr/30232/15  
-6. Kenenisa Gemechu ------ Ugr/30774/15  
+## Group members               ID             GIthub username
+1. Leta Dejene ----------- Ugr/30823/15  ---- Leta-D
+2. Segni Tsega ----------- Ugr/31204/15  ---- segnitsega
+3. Betselot Ertumo ------- Ugr/30297/15  ---- betsi138
+4. Remedan Jemal --------- Ugr/31138/15  ---- Ramsi97
+5. Bayisa Balcha --------- Ugr/30232/15  ---- bayedhaf
+6. Kenenisa Gemechu ------ Ugr/30774/15  ---- kenenisa-kg7
 
 ## 📦 Installation
 
