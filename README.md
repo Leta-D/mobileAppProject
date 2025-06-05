@@ -39,12 +39,12 @@ for More [Download the Documentation](https://github.com/Leta-D/mobileAppProject
 
 ---
 ## Group members               ID             GIthub username
-1. Leta Dejene ----------- Ugr/30823/15  ---- Leta-D
-2. Segni Tsega ----------- Ugr/31204/15  ---- segnitsega
-3. Betselot Ertumo ------- Ugr/30297/15  ---- betsi138
-4. Remedan Jemal --------- Ugr/31138/15  ---- Ramsi97
-5. Bayisa Balcha --------- Ugr/30232/15  ---- bayedhaf
-6. Kenenisa Gemechu ------ Ugr/30774/15  ---- kenenisa-kg7
+1. Leta Dejene ----------- Ugr/30823/15  ---- https://github.com/Leta-D
+2. Segni Tsega ----------- Ugr/31204/15  ---- https://github.com/segnitsega
+3. Betselot Ertumo ------- Ugr/30297/15  ---- https://github.com/betsi138
+4. Remedan Jemal --------- Ugr/31138/15  ---- https://github.com/Ramsi97
+5. Bayisa Balcha --------- Ugr/30232/15  ---- https://github.com/bayedhaf
+6. Kenenisa Gemechu ------ Ugr/30774/15  ---- https://github.com/kenenisa-kg7
 
 ## 📦 Installation
 
